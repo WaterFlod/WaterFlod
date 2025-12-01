@@ -7,7 +7,7 @@
 </div>
 
 ### About me
-- 🌱 I`m currently learning **Web3**
+- 🌱 I`m currently learning **Web development**
 - 📬 My [email](mailto:mse25019@gmail.com)
 - 🌍 I speak Russian and English
 
