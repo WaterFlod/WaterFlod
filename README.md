@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Animated wave banner: saturated green → dark yellow → saturated blue -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00b300,cc8800,0066ff&height=200&section=header&text=Hi%20there%20I%27m%20Matvey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20from%20Russia&descSize=20&descAlignY=55&descColor=ffffff" alt="header" />
 </div>
 
@@ -7,14 +6,22 @@
   <a href="https://t.me/waterflod">
     <img src="https://img.shields.io/badge/Telegram-007bff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <!-- Replace your_handle with your real X username -->
   <a href="https://x.com/waterflod666">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:mse25019@gmail.com">
     <img src="https://img.shields.io/badge/Email-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mattew&style=for-the-badge&color=007bff" alt="Profile views" />
+</div>
+
+---
+
+### 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/WaterFlod/BankWebsite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaterFlod&repo=BankWebsite&theme=transparent&title_color=00b300&text_color=58a6ff&icon_color=cc8800&bg_color=0d1117&hide_border=true" alt="BankWebsite" />
+  </a>
 </div>
 
 ---
@@ -23,7 +30,7 @@
 
 - 🔭 **Currently working on:** personal Java projects and open‑source contributions
 - 🌱 **Currently learning:** advanced Spring Boot, microservices, Kubernetes, event‑driven architecture
-- 📫 **How to reach me:** [Telegram](https://t.me/waterflod) | [X](https://x.com/your_handle) | [Email](mailto:mse25019@gmail.com)
+- 📫 **How to reach me:** [Telegram](https://t.me/waterflod) | [X](https://x.com/waterflod666) | [Email](mailto:mse25019@gmail.com)
 - 🌍 **Languages:** Russian (native), English (B2/Upper‑Intermediate)
 - ⚡ **Fun fact:** I enjoy solving algorithmic puzzles and strategy gaming
 
