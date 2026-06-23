@@ -22,6 +22,8 @@
   <a href="https://github.com/WaterFlod/BankWebsite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaterFlod&repo=BankWebsite&theme=transparent&title_color=00b300&text_color=58a6ff&icon_color=cc8800&bg_color=0d1117&hide_border=true" alt="BankWebsite" />
   </a>
+  <a href="https://github.com/WaterFlod/Tusa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WaterFlod&repo=Tusa&theme=transparent&title_color=00b300&text_color=58a6ff&icon_color=cc8800&bg_color=0d1117&hide_border=true" alt="Tusa" />
 </div>
 
 ---
